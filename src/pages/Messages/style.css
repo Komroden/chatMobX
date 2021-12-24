@@ -1,0 +1,15 @@
+.header__messagesWrapper {
+  margin-left: 20px;
+}
+
+.messages__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  border: 1px solid darkviolet;
+  height: 30px;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
